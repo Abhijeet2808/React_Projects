@@ -1,0 +1,43 @@
+.contact-heading {
+    min-height: 600px;
+    background-color: #fff;
+    display: block;
+    margin-top: 65px;
+    margin-left: 40.5rem;
+    font-weight: bolder;
+    color: #2c3e50;
+}
+
+.contactFrame {
+    margin-top: -66rem;
+    margin-left: 619px;
+}
+
+.form-container {
+    width: 360px;
+    background-color: #fff;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 20%), 0 5px 5px 0 rgb(0 0 0 / 24%);
+    padding: 10px;
+    margin: -28.5rem auto auto 37.5rem;
+}
+
+.register-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+.form-field {
+    margin: 10px 0 10px 0;
+    padding: 15px;
+    font-size: 16px;
+    border: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+button {
+    background: #4caf50;
+    color: white;
+    cursor: pointer;
+}
